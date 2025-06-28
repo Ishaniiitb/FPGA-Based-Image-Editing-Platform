@@ -16,7 +16,6 @@ This project simulates an image editing platform designed for implementation on 
 
 Project/
 │
-
 ├── Brighten.cpp / .h # Brightens the image
 ├── Contrast.cpp / .h # Modifies image contrast
 ├── Flip.cpp / .h # Flips the image horizontally/vertically
