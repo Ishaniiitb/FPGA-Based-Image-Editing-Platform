@@ -16,17 +16,29 @@ This project simulates an image editing platform designed for implementation on 
 
 Project/
 │
+
 ├── Brighten.cpp / .h # Brightens the image
+
 ├── Contrast.cpp / .h # Modifies image contrast
+
 ├── Flip.cpp / .h # Flips the image horizontally/vertically
+
 ├── Grayscale.cpp / .h # Converts RGB to grayscale
+
 ├── Invert.cpp / .h # Inverts RGB colors
+
 ├── Sepia.cpp / .h # Applies sepia tone
+
 ├── ReadBMP.cpp / .h # Reads BMP image files
+
 ├── WriteBMP.cpp / .h # Writes BMP image files
+
 ├── WriteImage.cpp / .h # Helper for image output
+
 ├── TestBench.cpp # Main testing file
+
 ├── Image[1-4].bmp # Sample input images
+
 ├── Result.bmp # Output image after processing
 
 
@@ -39,6 +51,7 @@ Project/
 
 ## 📷 Example
 Input: Image1.bmp
+
 Output: Result.bmp with selected filters applied (as defined in TestBench.cpp).
 
 ## 🛠️ Implementation Notes
